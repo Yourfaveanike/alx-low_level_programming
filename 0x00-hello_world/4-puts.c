@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - starts c program today
+ *
  * Return: 0 (sucessful)
   */
 int main(void)
