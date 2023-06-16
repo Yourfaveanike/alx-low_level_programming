@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - starts c program today
- *
- * Return: 0 (sucessful)
-  */
+ * main - entry
+ * Return: 0 (sucess)
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
-{
+}
