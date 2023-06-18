@@ -1,7 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** main- print either positive or negative
+
+/**
+ * main- print either positive or negative
  * Return: 0
  **/
 int main(void)
@@ -12,7 +14,7 @@ n = rand() - RAND_MAX / 2;
 printf("%d", n);
 if (n > 0)
 {
-puts (" is positive");
+puts(" is positive");
 }
 else if (n == 0)
 {
